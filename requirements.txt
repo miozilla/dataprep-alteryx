@@ -1,0 +1,7 @@
+pandas
+google-cloud-bigquery
+numpy
+requests
+openpyxl
+matplotlib
+seaborn
