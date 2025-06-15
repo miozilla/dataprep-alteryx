@@ -1,4 +1,4 @@
-# dataprep-alteryx
+# dataprep-alteryx :eight_spoked_asterisk:
 dataprep-alteryx : Political &amp; Election # DataPrep # Alteryx # Trifacta # Wrangle # Recipe
 
 ## Objective
