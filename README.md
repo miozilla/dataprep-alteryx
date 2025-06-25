@@ -2,7 +2,7 @@
 dataprep-alteryx : Political &amp; Election # DataPrep # Alteryx # Trifacta # Wrangle # Recipe
 
 ## Objective
-To explore, clean & prepare data (US presidential candidates & their campaign contribution) for analysis.
+To explore, clean & prepare data (US presidential candidates & their campaign contribution) for analysis and support further AI/ML & Data Science Workflow/Pipeline.
 
 
 # Alteryx Designer Cloud (Trifacta)
